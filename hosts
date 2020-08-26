@@ -1,0 +1,8 @@
+# TP-Link TL-WA855RE blacklist to avoid excessive data usage
+0.0.0.0 a.root-servers.net
+0.0.0.0 nz.pool.ntp.org
+0.0.0.0 au.pool.ntp.org
+0.0.0.0 time-nw.nist.gov
+0.0.0.0 time-b.nist.gov
+0.0.0.0 time-a.nist.gov
+0.0.0.0 time.nist.gov
